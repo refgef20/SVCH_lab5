@@ -1,0 +1,10 @@
+{
+  "id": "5",
+  "name": "Moroccanoil Treatment",
+  "price": 3800,
+
+  "description": "Original argan hair treatment that nourishes, conditions, and adds shine. Infused with argan oil and vitamins for all hair types. Softens hair without weighing it down.",
+  "category": "Hair treatment",
+  "rating": 4.8,
+  "photo": "https://images.unsplash.com/photo-1527799820374-dcf8d9d4a388?auto=format&fit=crop&w=600&q=80"
+}
