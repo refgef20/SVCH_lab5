@@ -1,1 +1,17 @@
-[{"id":"1","name_ru":"Kerastase Elixir Ultime","name_en":"Kerastase Elixir Ultime","filepath":"1.json"},{"id":"2","name_ru":"Olaplex No.3 Hair Perfector","name_en":"Olaplex No.3 Hair Perfector","filepath":"2.json"},{"id":"3","name_ru":"Dyson Airwrap Multi-styler","name_en":"Dyson Airwrap Multi-styler","filepath":"3.json"},{"id":"4","name_ru":"Oribe Lust Repair Shampoo","name_en":"Oribe Lust Repair Shampoo","filepath":"4.json"},{"id":"5","name_ru":"Moroccanoil Treatment","name_en":"Moroccanoil Treatment","filepath":"5.json"},{"id":"6","name_ru":"GHD Platinum+ Styler","name_en":"GHD Platinum+ Styler","filepath":"6.json"},{"id":"7","name_ru":"Living Proof Perfect Hair","name_en":"Living Proof Perfect Hair","filepath":"7.json"},{"id":"8","name_ru":"Redken Acidic Concentrate","name_en":"Redken Acidic Concentrate","filepath":"8.json"},{"id":"9","name_ru":"Hairdresser's Invisible Oil","name_en":"Hairdresser's Invisible Oil","filepath":"9.json"},{"id":"10","name_ru":"T3 Micro Cura Luxe Dryer","name_en":"T3 Micro Cura Luxe Dryer","filepath":"10.json"},{"id":"11","name_ru":"K18 Molecular Repair Mask","name_en":"K18 Molecular Repair Mask","filepath":"11.json"},{"id":"12","name_ru":"Verb Ghost Oil","name_en":"Verb Ghost Oil","filepath":"12.json"},{"id":"13","name_ru":"Pureology Shampoo","name_en":"Pureology Shampoo","filepath":"13.json"},{"id":"14","name_ru":"Color Wow Dream Seal","name_en":"Color Wow Dream Seal","filepath":"14.json"}]
+[
+  { "id": "1", "name": "Kerastase Elixir Ultime", "filepath": "1.json" },
+  { "id": "2", "name": "Olaplex No.3 Hair Perfector", "filepath": "2.json" },
+  { "id": "3", "name": "Dyson Airwrap Multi-styler", "filepath": "3.json" },
+  { "id": "4", "name": "Oribe Lust Repair Shampoo", "filepath": "4.json" },
+  { "id": "5", "name": "Moroccanoil Treatment", "filepath": "5.json" },
+  { "id": "6", "name": "GHD Platinum+ Styler", "filepath": "6.json" },
+  { "id": "7", "name": "Living Proof Perfect Hair", "filepath": "7.json" },
+  { "id": "8", "name": "Redken Acidic Concentrate", "filepath": "8.json" },
+  { "id": "9", "name": "Hairdresser's Invisible Oil", "filepath": "9.json" },
+  { "id": "10", "name": "T3 Micro Cura Luxe Dryer", "filepath": "10.json" },
+  { "id": "11", "name": "K18 Molecular Repair Mask", "filepath": "11.json" },
+  { "id": "12", "name": "Verb Ghost Oil", "filepath": "12.json" },
+  { "id": "13", "name": "Pureology Shampoo", "filepath": "13.json" },
+  { "id": "14", "name": "Color Wow Dream Seal", "filepath": "14.json" },
+  { "id": "15", "name": "Briogeo Charcoal Shampoo", "filepath": "15.json" }
+]
